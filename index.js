@@ -1,3 +1,5 @@
+//feel like this shouldnt be index.js its server side I think maybe should be seperate file connected to a server.js? 
+
 const textToSpeech = require('@google-cloud/text-to-speech')
 
 require('dotenv').config()
